@@ -1,6 +1,8 @@
 # PyRabbit
 Python worker to send and pull messages from RabbitMQ. Great for integrating as part of larger project.
 
+Comming soon...  
+
 See the code for usage examples.
 
 
